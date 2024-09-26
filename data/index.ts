@@ -74,11 +74,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Music Player (native)",
+    des: "A native music player application built with Expo, React Native, Typescript and Zustand. Design is inspired by Apple Music app.",
+    img: "/music-player.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/Qusai007/music-player-master",
   },
   {
     id: 2,
@@ -86,15 +86,15 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/Qusai007/Yoom---Video-Conferencing-App",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "AI Image SaaS - Imaginify",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://github.com/Qusai007/AI-Image-SaaS",
   },
   {
     id: 4,
@@ -102,7 +102,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/Qusai007/IPhone-main",
   },
 ];
 
@@ -110,31 +110,31 @@ export const testimonials = [
   {
     quote:
       "Working with Qusai was a great experience. His professionalism, quick responses, and commitment to quality really shone through during our project. Qusai's passion for development is impressive. If you want to improve your website and boost your brand, Qusai is the perfect partner.",
-    name: "Michael Johnson",
+    name: "Nickolas Jackson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
       "Working with Qusai was a great experience. His professionalism, quick responses, and commitment to quality really shone through during our project. Qusai's passion for development is impressive. If you want to improve your website and boost your brand, Qusai is the perfect partner.",
-    name: "Michael Johnson",
+    name: "Nickolas Jackson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
       "Working with Qusai was a great experience. His professionalism, quick responses, and commitment to quality really shone through during our project. Qusai's passion for development is impressive. If you want to improve your website and boost your brand, Qusai is the perfect partner.",
-    name: "Michael Johnson",
+    name: "Nickolas Jackson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
       "Working with Qusai was a great experience. His professionalism, quick responses, and commitment to quality really shone through during our project. Qusai's passion for development is impressive. If you want to improve your website and boost your brand, Qusai is the perfect partner.",
-    name: "Michael Johnson",
+    name: "Nickolas Jackson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
       "Working with Qusai was a great experience. His professionalism, quick responses, and commitment to quality really shone through during our project. Qusai's passion for development is impressive. If you want to improve your website and boost your brand, Qusai is the perfect partner.",
-    name: "Michael Johnson",
+    name: "Nickolas Jackson",
     title: "Director of AlphaStream Technologies",
   },
 ];
