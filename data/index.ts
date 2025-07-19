@@ -175,29 +175,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Dev - TCS",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Programmer Analyst - CTFS",
+    desc: "Engineered secure, scalable backend systems to power payments and loyalty programs at CTFS.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Web Dev - Accenture",
-    desc: "Developed and maintained responsive web applications using HTML, CSS, and JavaScript, optimizing performance ",
+    title: "Selenium Test Automation Engineer",
+    desc: "Automated end-to-end testing using Selenium to ensure robust performance and faster release cycles across payment and e-commerce platforms.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "App Dev Project - Freelance",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Web Developer - Freelance",
+    desc: "Developed and maintained responsive web applications using React.js, Node.js, and JavaScript, optimizing performance.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
