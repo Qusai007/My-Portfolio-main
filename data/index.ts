@@ -119,6 +119,18 @@ export const testimonials = [
     name: "Bradley White",
     title: "Application Delivery Manager at Canadian Tire Financial Services",
   },
+  {
+    quote:
+      "Qusai recently completed a co-op term with us in a software developer role. From the outset he demonstrated a high level of enthusiasm and professionalism, consistently showing eagerness to take on new challenges and learn quickly in a fast-paced environment. I have no doubt that Qusai will be an asset to any future team.",
+    name: "Rob Reid",
+    title: "Principal Architect and Director Application Delivery, Payments at Canadian Tire Financial Services",
+  },
+  {
+    quote:
+      "I worked with Qusai as his manager for 8 months during his software developer internship. During that time, he consistently impressed me with his ability to pick up new technologies quickly and effectively contribute to the team. Our team’s development throughput was significantly increased due to Qusai’s work. He always completed his work quickly and was eager to take on new tasks. I would highly recommend him for a software developer or other technical role.",
+    name: "Bradley White",
+    title: "Application Delivery Manager at Canadian Tire Financial Services",
+  },
 ];
 
 export const companies = [
